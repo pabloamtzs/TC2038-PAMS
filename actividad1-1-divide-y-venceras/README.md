@@ -7,6 +7,9 @@ La salida del programa es una lista de los N valores ordenados de mayor a menor
 
 ## Casos de prueba
 
+<img src="/actividad1-1-divide-y-venceras/images/in.png" width="400"/>
+Primer caso de prueba
+
 ## Descripción del código
 
 ## Ejecución del código
