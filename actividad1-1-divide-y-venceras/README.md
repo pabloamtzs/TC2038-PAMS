@@ -10,11 +10,12 @@ La salida del programa es una lista de los N valores ordenados de mayor a menor
 ## Descripción del código
 
 ## Ejecución del código
-- Para su ejecución, abre la terminal e ingresa respectivamente los siguientes comandos:
+- Para su ejecución, abre la terminal e ingresa el siguiente comando:
 
     ```bash
     g++ main.cpp
 
+- Si la interacción sale bien, ingresa el siguiente comando para la ejecución del código:
 
     ```bash
     ./a.out < in.txt
