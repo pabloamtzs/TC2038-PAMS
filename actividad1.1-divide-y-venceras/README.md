@@ -4,5 +4,3 @@ Utilizando la técnica de programación de "divide y vencerás", escribe en equi
 El programa recibe un número entero N, seguido de N valores reales (double, uno en cada línea) por la entrada estándar.
 
 La salida del programa es una lista de los N valores ordenados de mayor a menor
-
-Tu programa debe ser llamado main.cpp y debe compilar utilizando el comando g++ en un ambiente linux.
