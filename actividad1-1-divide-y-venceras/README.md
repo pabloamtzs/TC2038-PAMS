@@ -18,6 +18,6 @@ La salida del programa es una lista de los N valores ordenados de mayor a menor
 - Si la interacción sale bien, ingresa el siguiente comando para la ejecución del código:
 
     ```bash
-    ./a.out < in.txt
+    ./a.out < tests/in.txt
 
 - El archivo 'in.txt' puede ser cambiado por cualquier caso de prueba anteriormente visto
